@@ -1,0 +1,26 @@
+[
+  {
+    "name": "invalidName",
+    "password": "ruchira@123",
+    "status": "fail",
+    "verifyText": "Invalid user or password"
+  },
+  {  
+    "name": "ruchira",
+    "password": "invalidPassword",
+    "status": "fail",
+    "verifyText": "Invalid user or password"
+  },
+  {
+    "name": "invliadusername",
+    "password": "invalidPassword",
+    "status": "fail",
+    "verifyText": "Invalid user or password"
+  },
+  {    
+    "name": "ruchira",
+    "password": "ruchira@123",
+    "status": "pass",
+    "verifyText": "My page"
+  }
+]
